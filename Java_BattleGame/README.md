@@ -1,0 +1,7 @@
+This Java-based battle sim game was co-developed with classmate Jessica Hooper during summer 2021. This was an assignment intended to be assigned in our Object-Oriented Programming course in Winter 2021 but was cut. We decided it would be a great idea to do the assignment throughout the summer, and we even expanded upon the original requirements. 
+
+We were still very new to Java, OOP principles, and GUIs so this project reinforced a lot of those concepts and made us both more confident in our abilities.
+
+Having recently used Java Swing in class, we chose to use it in our solution, along with a lot of OOP concepts like abstraction, inheritance, and encapsulation. We also used a custom font for the first time, developed functions for the game like shuffling a class' properties, and wrote an algorithm for determining the winner of a match based on the selected character and a randomly selected monster opponent. I even did some basic image editing to adjust the size of images. This was also the first time either of us had used GitHub in a collaborative setting which taught us how to effectively use it as a team. 
+
+Looking back at this only seven months after completion, I see so many ways to improve the functionality and optimize the code, but I'm still really proud of this project. We both learned a lot throughout the development and kept our brains in programming mode over the summer break.
