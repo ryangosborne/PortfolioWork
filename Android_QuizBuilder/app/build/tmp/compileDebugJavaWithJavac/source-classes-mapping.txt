@@ -1,0 +1,30 @@
+com/example/a3_picselect/BuildConfig.java
+ com.example.a3_picselect.BuildConfig
+com/example/a3_picselect/DBAdapter.java
+ com.example.a3_picselect.DBAdapter
+ com.example.a3_picselect.DBAdapter$DatabaseHelper
+com/example/a3_picselect/databinding/ActivityDbactivityBinding.java
+ com.example.a3_picselect.databinding.ActivityDbactivityBinding
+com/example/a3_picselect/ItemDetailHostActivity.java
+ com.example.a3_picselect.ItemDetailHostActivity
+com/example/a3_picselect/databinding/FragmentItemListBinding.java
+ com.example.a3_picselect.databinding.FragmentItemListBinding
+com/example/a3_picselect/DBActivity.java
+ com.example.a3_picselect.DBActivity
+ com.example.a3_picselect.DBActivity$1
+com/example/a3_picselect/databinding/ItemListContentBinding.java
+ com.example.a3_picselect.databinding.ItemListContentBinding
+com/example/a3_picselect/databinding/FragmentItemDetailBinding.java
+ com.example.a3_picselect.databinding.FragmentItemDetailBinding
+com/example/a3_picselect/databinding/ActivityItemDetailBinding.java
+ com.example.a3_picselect.databinding.ActivityItemDetailBinding
+com/example/a3_picselect/ItemDetailFragment.java
+ com.example.a3_picselect.ItemDetailFragment
+com/example/a3_picselect/ItemListFragment.java
+ com.example.a3_picselect.ItemListFragment
+ com.example.a3_picselect.ItemListFragment$1
+ com.example.a3_picselect.ItemListFragment$SimpleItemRecyclerViewAdapter
+ com.example.a3_picselect.ItemListFragment$SimpleItemRecyclerViewAdapter$ViewHolder
+com/example/a3_picselect/placeholder/AlbumContent.java
+ com.example.a3_picselect.placeholder.AlbumContent
+ com.example.a3_picselect.placeholder.AlbumContent$AlbumItem
