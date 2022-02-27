@@ -1,0 +1,10 @@
+Belgium$Brussels
+Croatia$Zagreb
+Denmark$Copenhagen
+Greece$Athens
+Hungary$Budapest
+Poland$Warsaw
+Portugal$Lisbon
+Finland$Helsinki
+Norway$Oslo
+Austria$Vienna

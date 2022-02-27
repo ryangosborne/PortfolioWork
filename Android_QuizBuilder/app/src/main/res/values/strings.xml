@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">A2_QuizBuilder</string>
+    <string name="homeTitle">Welcome to the Quiz App</string>
+    <string name="homeSubtitle">European Country Capitals</string>
+    <string name="enterName">Enter your name:</string>
+    <string name="startQuiz">Start Quiz</string>
+    <string name="quizContext">Choose the capital for this country:</string>
+    <string name="next">Next Question</string>
+    <string name="resultsTitle">Quiz Complete!</string>
+    <string name="correct">Correct:</string>
+    <string name="incorrect">Incorrect:</string>
+    <string name="overall">Overall:</string>
+    <string name="playAgain">Play Again</string>
+</resources>
