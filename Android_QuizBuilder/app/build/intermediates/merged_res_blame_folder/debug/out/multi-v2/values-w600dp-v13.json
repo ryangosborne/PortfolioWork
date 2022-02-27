@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/src/main/res/values-w600dp/dimens.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "97,55",
+                        "endColumns": "58,41",
+                        "endOffsets": "151,92"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,41",
+                        "endOffsets": "109,151"
+                    }
+                }
+            ]
+        }
+    ]
+}

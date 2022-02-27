@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_item_list.xml",
+        "source": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/src/main/res/layout/fragment_item_list.xml"
+    },
+    {
+        "merged": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_item_detail.xml",
+        "source": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/src/main/res/layout/activity_item_detail.xml"
+    },
+    {
+        "merged": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_list_content.xml",
+        "source": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/src/main/res/layout/item_list_content.xml"
+    },
+    {
+        "merged": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_item_detail.xml",
+        "source": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/src/main/res/layout/fragment_item_detail.xml"
+    },
+    {
+        "merged": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_dbactivity.xml",
+        "source": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/src/main/res/layout/activity_dbactivity.xml"
+    }
+]

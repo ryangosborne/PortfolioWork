@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-sw600dp-v13/fragment_item_list.xml",
+        "source": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/src/main/res/layout-sw600dp/fragment_item_list.xml"
+    },
+    {
+        "merged": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-sw600dp-v13/fragment_item_detail.xml",
+        "source": "/Users/ryan/Documents/Programming/MobileAppDevelopment/AndroidAppFiles/A3_PicSelect/app/src/main/res/layout-sw600dp/fragment_item_detail.xml"
+    }
+]
