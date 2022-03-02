@@ -6,6 +6,6 @@ The goal of this assignment was to create a two- or three-screen Android applica
 
 About the program: A user will enter their name on the first screen, and then start the quiz. The first of ten questions will be presented to the user. A country name is presented with the instruction to choose the capital for this country. Provided are four different buttons containing four different capital cities in Europe. Of course, one is the answer, and the others are answers for other questions in the quiz. Upon selecting an answer, the user will be shown if they were correct or not, and if not, which answer was correct. This process continues until all questions have been asked. The user will then be brought to a final results screen showing their overall score, with a button to start the application again.
 
-![Quiz image: Incorrect](https://github.com/ryangosborne/PortfolioWork/blob/main/Android_QuizBuilder/Screenshots/Quiz_Correct.png)
-![Quiz image: Correct](https://github.com/ryangosborne/PortfolioWork/blob/main/Android_QuizBuilder/Screenshots/Quiz_Incorrect.png)
+![Quiz image: Correct](https://github.com/ryangosborne/PortfolioWork/blob/main/Android_QuizBuilder/Screenshots/Quiz_Correct.png)
+![Quiz image: Incorrect](https://github.com/ryangosborne/PortfolioWork/blob/main/Android_QuizBuilder/Screenshots/Quiz_Incorrect.png)
 ![Quiz image: Results](https://github.com/ryangosborne/PortfolioWork/blob/main/Android_QuizBuilder/Screenshots/Quiz_Results.png)
