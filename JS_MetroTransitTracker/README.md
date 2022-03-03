@@ -6,4 +6,5 @@ The goal of this assignment was to display a map in the browser and represent th
 
 The solution required me to format the JSON data return from the Halifax Transit API so it could be used in a GeoJSON format, which Leaflet uses.
 
-![Quiz image: Bus Map](busMap.png)
+![App image: Bus Map](busMap.png)
+![App image: Popup Message](busPopup.png)
