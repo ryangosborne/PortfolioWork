@@ -11,7 +11,10 @@ Projects:
 
 
 Quiz Builder App:
-![Quiz image: Incorrect](https://github.com/ryangosborne/PortfolioWork/blob/main/Android_QuizBuilder/Screenshots/Quiz_Incorrect.png)
+
+<img src="https://github.com/ryangosborne/PortfolioWork/blob/main/Android_QuizBuilder/Screenshots/Quiz_Incorrect.png" width="250" height="510"/>
+
 
 Halifax Transit Tracker:
-![Transit image: Busses](https://github.com/ryangosborne/PortfolioWork/blob/main/JS_MetroTransitTracker/busMap.png)
+
+<img src="https://github.com/ryangosborne/PortfolioWork/blob/main/JS_MetroTransitTracker/busMap.png" width="500" height="500" />
